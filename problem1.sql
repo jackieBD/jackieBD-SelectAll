@@ -1,1 +1,1 @@
-SELECT * FROM song
+SELECT * FROM song;
